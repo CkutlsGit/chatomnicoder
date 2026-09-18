@@ -6,7 +6,7 @@ Console-based AI chat application built with pure Java and raw HTTP, connecting 
 
 ## 📋 Overview
 
-ChatOmniCoder is a console application that lets you chat with a locally running AI model through LM Studio's HTTP API. The project uses only Java's standard library — specifically java.net.HttpURLConnection — with no external frameworks. It supports persistent conversation context.
+ChatOmniCoder is a console application that lets you chat with a locally running AI model through LM Studio's HTTP API. The project uses only Java's standard library - specifically java.net.HttpURLConnection  with no external frameworks. It supports persistent conversation context.
 
 ## 🚀 Technology Stack
 
@@ -78,7 +78,7 @@ src/main/java/
 
 ## 🔒 Privacy
 
-- **100% local** — no data leaves your machine
+- **100% local** - no data leaves your machine
 - **No telemetry**, no API keys, no accounts
 
 Note: An educational project for reinforcing Java skills and working with threads.
