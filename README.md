@@ -2,7 +2,7 @@
 
 Console-based AI chat application built with pure Java and raw HTTP, connecting to a local LLM via LM Studio.
 
-📖 In Russian: 
+📖 In Russian: [перевод на русский](https://github.com/CkutlsGit/chatomnicoder/blob/main/README.ru.md)
 
 ## 📋 Overview
 
@@ -21,7 +21,6 @@ ChatOmniCoder is a console application that lets you chat with a locally running
 
 - 💬 **Console Chat**
   - Simple, fast, dependency-light
-  - Real-time streaming or single-response mode
 
 - 🤖 **Local AI Communication**
   - Talks directly to LM Studio over HTTP
